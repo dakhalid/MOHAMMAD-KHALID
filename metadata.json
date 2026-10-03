@@ -1,0 +1,7 @@
+{
+  "name": "Offline Expense Tracker",
+  "description": "Private, encrypted offline expense tracker with category budgets, monthly insights, quick-entry widget, and optional cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
